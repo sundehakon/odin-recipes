@@ -11,6 +11,7 @@ h1 {
 
 ul {
   padding: 10px;
+  font-size: 35px;
   list-style-type: none;
   background-color: #ccc;
   display: inline-block;
